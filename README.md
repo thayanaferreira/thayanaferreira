@@ -4,7 +4,7 @@
 - Graduada em Bacharelado em Sistemas de informação em 2017;
 - Cursando Pós graduação em Desenvolvimento Full Stack;
 - Focada em Java, Spring Boot, APIs REST, Arquitetura, Qualidade e Testes de Código;
-- Apaixonada por identificar problemas e pensar soluções — no código e na vida;
+- Apaixonada por identificar problemas e pensar soluções - no código e na vida;
 - Em constante evolução — nas horas vagas, entre um commit e outro, tomando café com meus dois filhos pugs rs! 🐶🐶☕
 
 ### 📊 GitHub Stats
