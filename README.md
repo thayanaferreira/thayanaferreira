@@ -7,12 +7,10 @@
 - Apaixonada por identificar problemas e pensar soluções — no código e na vida;
 - Em constante evolução — nas horas vagas, entre um commit e outro, tomando café com meus dois filhos pugs rs! 🐶🐶☕
 
----
-
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanaferreira&layout=compact&theme=default&hide=html,css)
 
----
+[![LinkedIn](https://img.shields.io/badge/Perfil%20LinkedIn-5A9BED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayana-ferreira-da-silva-2655b861/)
 
-[![LinkedIn](https://img.shields.io/badge/Perfil%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayana-ferreira-da-silva-2655b861/)
+
