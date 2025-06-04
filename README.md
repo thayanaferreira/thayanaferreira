@@ -2,7 +2,7 @@
 - Desenvolvedora Back-End em transição de carreira após 10 anos como Analista de Testes Sênior (QA);
 - Graduada em Bacharelado em Sistemas de informação em 2017;
 - Cursando Pós graduação em Desenvolvimento Full Stack;
-- Focada em Java, Spring Boot, APIs REST, Arquitetura, Qualidade e Testes de Código;
+- Focada em Java, Spring Boot, APIs REST, arquitetura, qualidade e testes de código;
 - Apaixonada por identificar problemas e pensar soluções — no código e na vida;
 - Em constante evolução — nas horas vagas, entre um commit e outro, tomando café com meus dois filhos pugs rs! 🐶🐶☕
 
