@@ -1,10 +1,17 @@
 ### Quem é a Thay? 👩🏻‍💻
-- Desenvolvedora Back-End em transição de carreira após 10 anos como Analista de Testes Sênior (QA);
-- Graduada em Bacharelado em Sistemas de informação em 2017;
-- Cursando Pós graduação em Desenvolvimento Full Stack;
-- Focada em Java, Spring Boot, APIs REST, arquitetura, qualidade e testes de código;
-- Apaixonada por identificar problemas e pensar soluções — no código e na vida;
-- Em constante evolução — nas horas vagas, entre um commit e outro, tomando café com meus dois filhos pugs rs! 🐶🐶☕
+Profissional de tecnologia com **11 anos de experiência em TI** dedicados à **Qualidade de Software** (incluindo 6 anos como QA Sênior).  
+Tenho atuação sólida em **testes manuais**, **automação de testes de API e E2E**, integração com **bancos de dados relacionais e não relacionais**, versionamento com **Git**, **testes de performance** e práticas ágeis (**Scrum e Kanban**).  
+
+Especialista em automação com **Ruby (RSpec, Cucumber)** e **Java (JUnit, Mockito)**, com **expertise em queries SQL avançadas** e experiência prática em ferramentas como **Postman, Insomnia, JMeter, Docker e pipelines de CI/CD**.  
+
+Mais recentemente, também ampliei minha atuação para o **desenvolvimento de software**, com experiência em **Java, Spring Boot e JPA/Hibernate**, unindo a visão crítica de QA com a prática em desenvolvimento para entregar soluções ainda mais confiáveis e de qualidade.  
+
+🎓 **Graduada em Sistemas de Informação** e atualmente cursando **Pós-graduação em Desenvolvimento Full Stack**.  
+☕ **Em constante evolução** — entre um commit e outro, tomando café na companhia dos meus dois pugs 🐶🐶.  
+✨ **Apaixonada por identificar problemas e pensar soluções** — no código e na vida.  
+
+
+---
 
 ### Estatísticas do GitHub (geradas em tempo real) 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanaferreira&layout=compact&theme=default&hide=html,css)
