@@ -16,6 +16,6 @@ Mais recentemente, também ampliei minha atuação para o **desenvolvimento de s
 ### Estatísticas do GitHub (geradas em tempo real) 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanaferreira&layout=compact&theme=default&hide=html,css)
 
-[![LinkedIn](https://img.shields.io/badge/Perfil%20LinkedIn-5A9BED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayana-ferreira-da-silva-2655b861/)
+[![LinkedIn](https://img.shields.io/badge/Perfil%20LinkedIn-5A9BED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayana-ferreira-2655b861/)
 
 
