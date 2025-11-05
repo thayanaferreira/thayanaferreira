@@ -1,10 +1,11 @@
 ### Quem é a Thay? 👩🏻‍💻
-Profissional de tecnologia com **11 anos de experiência em TI** dedicados à **Qualidade de Software** (incluindo 6 anos como QA Sênior).  
-Tenho atuação sólida em **testes manuais**, **automação de testes de API e E2E**, integração com **bancos de dados relacionais e não relacionais**, versionamento com **Git**, **testes de performance** e práticas ágeis (**Scrum e Kanban**).  
+Profissional de tecnologia com 11 anos de experiência em TI — sendo 8 dedicados à Qualidade de Software e os últimos 3 ao desenvolvimento back-end em Java.
 
-Especialista em automação com **Ruby (RSpec, Cucumber)** e **Java (JUnit, Mockito)**, com **expertise em queries SQL avançadas** e experiência prática em ferramentas como **Postman, Insomnia, JMeter, Docker e pipelines de CI/CD**.  
+Atuo no desenvolvimento de APIs REST e microsserviços com Java, Spring Boot e JPA/Hibernate, além de integrações com bancos relacionais e NoSQL, mensageria (Kafka, SQS) e pipelines CI/CD (Jenkins, GitLab). Tenho experiência com Docker, Kubernetes e AWS, além de integração entre back e front-end (React, Angular).
 
-Mais recentemente, também ampliei minha atuação para o **desenvolvimento de software**, com experiência em **Java, Spring Boot e JPA/Hibernate**, unindo a visão crítica de QA com a prática em desenvolvimento para entregar soluções ainda mais confiáveis e de qualidade.  
+Carrego uma base sólida em automação de testes (Ruby, Java, Cucumber, JUnit, Mockito), SQL avançado, e testes de performance (JMeter), aliando a visão crítica de QA com a prática de desenvolvimento para entregar soluções escaláveis e de alta qualidade.
+
+Graduada em Sistemas de Informação e cursando Pós-Graduação em Desenvolvimento Full Stack (UniCEUB). Atualmente me preparo para a certificação Oracle Certified Foundations Associate, Java (1Z0-811).
 
 🎓 **Graduada em Sistemas de Informação** e atualmente cursando **Pós-graduação em Desenvolvimento Full Stack**.  
 ☕ **Em constante evolução** — entre um commit e outro, tomando café na companhia dos meus dois pugs 🐶🐶.  
