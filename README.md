@@ -11,7 +11,7 @@ Graduada em Sistemas de Informação e cursando Pós-Graduação em Desenvolvime
 ☕ **Em constante evolução** — entre um commit e outro, tomando café na companhia dos meus dois pugs 🐶🐶.  
 
 
-**Apaixonada por identificar problemas e pensar soluções** — no código e na vida.  
+**Apaixonada por identificar problemas e pensar soluções**... no código e na vida!
 
 
 ---
